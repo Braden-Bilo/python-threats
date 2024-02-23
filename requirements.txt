@@ -1,1 +1,2 @@
 flask
+light-s3-client
